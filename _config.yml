@@ -7,7 +7,7 @@ url: "https://ToheebAminu.github.io"
 baseurl: "/Jekyll-for-Job-Market"
 repository: "ToheebAminu/Jekyll-for-Job-Market"
 header:
-  image: /assets/images/banner-husky.jpg
+  image: /assets/images/_DMJ5827 5x5.jpg
 
 include:
   - _pages
@@ -37,8 +37,8 @@ minimal_mistakes_skin: "contrast"
 
 # settings for author profile
 author:
-  name   : "Mission III"
-  avatar : "/assets/images/banner-husky.jpg"
+  name   : "Aminu Toheeb"
+  avatar : "/assets/images/_DMJ5827 5x5.jpg"
   bio    : "My name is Mission III, and I am the official Huskie mascot at Northern Illinois University."
   location: "DeKalb, Illinois"
   github : 
